@@ -1,0 +1,16 @@
+H1{
+    border-bottom: 2px solid #00f;
+}
+
+H2{
+    border: 1px #AAA solid;
+}
+
+.ul-1{
+    border-bottom: 4px #f00 dotted;
+    border-top: 4px #f00 dotted;
+}
+
+.ul-2{
+    border: 2px #0f0 dashed;
+}
